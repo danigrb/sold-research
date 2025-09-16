@@ -1,0 +1,53 @@
+# Standard tags configuration for cloud cost optimization documentation
+
+providers:
+  - aws
+  - gcp
+  - azure
+  - multi
+  - n/a
+
+techniques:
+  - rightsizing
+  - spot
+  - commitment
+  - automation
+  - scheduling
+  - monitoring
+  - reserved-instances
+  - savings-plans
+  - preemptible
+  - lifecycle-management
+
+roi_levels:
+  - low      # <10% savings
+  - medium   # 10-30% savings
+  - high     # >30% savings
+
+confidence_levels:
+  - low      # Theoretical or unverified
+  - medium   # Some validation or case studies
+  - high     # Proven with multiple implementations
+
+effort_levels:
+  - low      # <1 week implementation
+  - medium   # 1-4 weeks implementation
+  - high     # >1 month implementation
+
+content_types:
+  - whitepaper
+  - article
+  - case-study
+  - dataset
+  - documentation
+  - tool
+  - benchmark
+
+# Tag format examples:
+# provider:aws
+# technique:spot
+# roi:high
+# confidence:medium
+# effort:low
+# type:whitepaper
+# date:2025-09-16

@@ -1,0 +1,38 @@
+{
+  "id": "uuid-generated-id",
+  "title": "Short descriptive title",
+  "date": "2025-09-16",
+  "provider": "aws|gcp|azure|multi|n/a",
+  "techniques": [
+    "rightsizing",
+    "spot",
+    "commitment",
+    "automation",
+    "scheduling"
+  ],
+  "summary": "150-300 word synthetic executive summary highlighting key findings, relevance for cost optimization, and potential savings or approaches mentioned.",
+  "sources": [
+    "https://example.com/source1",
+    "Whitepaper Title - 2024",
+    "Case Study Name - Company - 2025"
+  ],
+  "tags": [
+    "roi:high|medium|low",
+    "confidence:high|medium|low",
+    "technique:spot|commitment|rightsizing|automation",
+    "provider:aws|gcp|azure|multi",
+    "date:YYYY-MM-DD"
+  ],
+  "savings_potential": {
+    "percentage": "10-30%",
+    "annual_amount": "$100K-$1M",
+    "confidence": "high|medium|low"
+  },
+  "effort_level": "low|medium|high",
+  "related_entries": [
+    "related-entry-id-1",
+    "related-entry-id-2"
+  ],
+  "created_at": "2025-09-16T10:00:00Z",
+  "updated_at": "2025-09-16T10:00:00Z"
+}

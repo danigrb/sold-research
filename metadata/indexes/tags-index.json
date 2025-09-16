@@ -1,0 +1,39 @@
+{
+  "providers": {
+    "aws": [],
+    "gcp": [],
+    "azure": [],
+    "multi": [],
+    "n/a": []
+  },
+  "techniques": {
+    "rightsizing": [],
+    "spot": [],
+    "commitment": [],
+    "automation": [],
+    "scheduling": [],
+    "monitoring": []
+  },
+  "roi_levels": {
+    "high": [],
+    "medium": [],
+    "low": []
+  },
+  "confidence_levels": {
+    "high": [],
+    "medium": [],
+    "low": []
+  },
+  "effort_levels": {
+    "low": [],
+    "medium": [],
+    "high": []
+  },
+  "dates": {
+    "2025-09": [],
+    "2025-10": [],
+    "2025-11": [],
+    "2025-12": []
+  },
+  "last_updated": "2025-09-16T10:00:00Z"
+}
